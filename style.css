@@ -1,3 +1,20 @@
+ body {
+        background-color: #f8f9fa;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background: linear-gradient(to right, 43c6a);
+        background-size: cover;
+        background: linear-gradient(60deg, rgb(91, 91, 91), black, rgb(110, 110, 110));
+        background-size: 300% 300%;
+        animation: color 10s ease-in-out infinite;
+        background-image: url(10.jpg);
+        background-size: cover;
+    }
+
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap");
 * {
     margin: 0;
